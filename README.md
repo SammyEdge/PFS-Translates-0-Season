@@ -1,2 +1,2 @@
 # PFSTranslates
-My Pathfinder Society translates to Rusian
+My Pathfinder Society 0 season translates to Rusian
